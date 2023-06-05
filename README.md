@@ -1,17 +1,15 @@
 ### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Welcome to the jungle 😄
+Welcome!!
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Express and React
 - 👯 &nbsp;I’m looking to collaborate on Web Developer.
-- 🤔 &nbsp;I’m looking for help with master of programming. 😄
 - 💬 &nbsp;Ask me about anything
-- ⚡ &nbsp;Fun fact: The Earth is spherical
 
- <p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zendiid&show_icons=true&theme=transparent" />
- </p>
+ </p> -->
 <!--  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendiid&theme=transparent" />
  </p> -->
