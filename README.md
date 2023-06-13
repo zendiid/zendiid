@@ -3,7 +3,7 @@
 Welcome!!
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Express and React
+- 🌱 &nbsp;I’m still exploring Express and React
 - 👯 &nbsp;I’m looking to collaborate on Web Developer.
 - 💬 &nbsp;Ask me about anything
 
