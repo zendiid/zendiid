@@ -4,8 +4,9 @@ Welcome!!
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m still exploring Express and React
-<!-- - 👯 &nbsp;I’m looking to collaborate on Web Developer. -->
 - 💬 &nbsp;Ask me about anything
+
+- <!-- - 👯 &nbsp;I’m looking to collaborate on Web Developer. -->
 
 <!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zendiid&show_icons=true&theme=transparent" />
